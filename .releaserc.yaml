@@ -1,4 +1,8 @@
-branches: master
+branches:
+  - name: master
+  - name: next
+  - name: v1.x
+    range: 1.x
 
 plugins:
   - "@semantic-release/commit-analyzer"
