@@ -1,7 +1,6 @@
 branches:
   - name: master
   - name: next
-  - name: "beta"
     prerelease: true
   - name: v1.x
     range: 1.x
