@@ -1,14 +1,14 @@
 {
-  "name": "@byndyusoft/typescript-template",
+  "name": "@byndyusoft/test-package",
   "version": "0.0.0-development",
-  "description": "Base template for TypeScript packages",
-  "homepage": "https://github.com/Byndyusoft/node-typescript-template#readme",
+  "description": "Use The Force, Luke!",
+  "homepage": "https://github.com/Byndyusoft/node-test-package#readme",
   "bugs": {
-    "url": "https://github.com/Byndyusoft/node-typescript-template/issues"
+    "url": "https://github.com/Byndyusoft/node-test-package/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Byndyusoft/node-typescript-template.git"
+    "url": "https://github.com/Byndyusoft/node-test-package.git"
   },
   "license": "Apache-2.0",
   "author": "Byndyusoft",
